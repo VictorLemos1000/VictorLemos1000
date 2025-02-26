@@ -1,5 +1,5 @@
 
-### Olá sou o Victor Antônio e este é o meu perfil do GitHub!!!
+### Olá sou o Victor Antônio, seja bem-vindo ao perfil do GitHub!!!
 
 ### Contatos:
 <a href="https://www.instagram.com/victor_lemos2002/">
@@ -27,6 +27,9 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 50px;"/>
     <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="border-radius: 50px;"/>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 50px;"/>
+    <img align="center" alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 50px;"/>
+    <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="border-radius: 50px;"/>
+
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLemos1000&theme=radical&title_color=FF6347&icon_color=FF4500)
