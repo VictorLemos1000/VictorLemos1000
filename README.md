@@ -33,5 +33,3 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLemos1000&theme=radical&title_color=FF6347&icon_color=FF4500)
-    
-### Como ponta pé inicial de carreira pretendo me tornar desenvolvedor Back-and.
